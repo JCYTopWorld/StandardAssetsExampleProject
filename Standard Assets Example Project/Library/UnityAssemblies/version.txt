@@ -1,0 +1,27 @@
+5.4.2f2:2.8.0.0
+StandaloneWindows
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/Managed/UnityEngine.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/Managed/UnityEditor.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data\Managed/Mono.Cecil.dll
+C:\WinAPP\Unity3D 5.4.2 64\Editor\Data\PlaybackEngines\AppleTVSupport\UnityEditor.iOS.Extensions.Common.dll
+C:\WinAPP\Unity3D 5.4.2 64\Editor\Data\PlaybackEngines\AppleTVSupport\UnityEditor.iOS.Extensions.Xcode.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/Managed/UnityEditor.Graphs.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.AppleTV.Extensions.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.Metro.Extensions.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/WinAPP/Unity3D 5.4.2 64/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
